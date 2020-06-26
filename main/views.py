@@ -14,13 +14,13 @@ def product():
     p2 = products()
     p2.name = 'Coarter'
     p2.des = 'Blue casual shoes'
-    p2.price = 1000
+    p2.price = 10000
     p2.img = 'shoe_1.jpg'
 
     p3 = products()
     p3.name = 'Polo Shirt'
     p3.des = 'Casual Tshirt'
-    p3.price = 550
+    p3.price = 5598
     p3.img = 'cloth_2.jpg'
 
     p4 = products()
@@ -32,7 +32,7 @@ def product():
     p5 = products()
     p5.name = 'Graphics Shirt'
     p5.des = 'Blue shirt'
-    p5.price = 300
+    p5.price = 10000
     p5.img = 'cloth_3.jpg'
 
     prods = [p1, p2, p3, p4, p5]
